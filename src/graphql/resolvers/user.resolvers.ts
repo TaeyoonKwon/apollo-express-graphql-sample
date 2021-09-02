@@ -8,8 +8,6 @@ export const Query = {
         return docs;
     },
     userById: async (_: undefined, { _id }: { _id: string }): Promise<Document | null> => {
-        // logger.info(_);
-        console.log(_)
         const doc = await UserModel.findById(_id);
         return doc;
     }

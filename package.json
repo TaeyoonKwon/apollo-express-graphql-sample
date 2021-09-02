@@ -24,8 +24,8 @@
     "type": "git",
     "url": "git+https://github.com/TaeyoonKwon/apollo-express-graphql-sample.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["apollo", "express", "graphql", "typescript", "boilerplate"],
+  "author": "TaeyoonKwon",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/TaeyoonKwon/apollo-express-graphql-sample/issues"
